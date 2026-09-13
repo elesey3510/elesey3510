@@ -1,2 +1,2 @@
 ![HAMQSL Solar/VHF Data](https://www.hamqsl.com/solar101vhfpic.php)
-![Last Looked](https://last-visit-site.vercel.app/banner)
+<img src="https://ваш-проект.vercel.app/banner" width="520" alt="Recent Visits" />
